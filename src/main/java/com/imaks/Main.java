@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Temperature Converter");
-        System.out.println("V0.1");
+        System.out.println("V1.0");
 
         Scanner scanner = new Scanner(System.in);
 
